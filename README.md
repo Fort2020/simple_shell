@@ -1,1 +1,1 @@
-This is a README.md for 0x16. C - Simple Shell - Team Project - Group of Two
+This is 0x16. C - Simple Shell README.md - A group of two -Team Project
